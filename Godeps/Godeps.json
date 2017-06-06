@@ -49,37 +49,37 @@
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/builder",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/builder",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/constants",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/constants",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/tools",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/tools",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/tools/buildtools",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/tools/buildtools",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/tools/buildtools/mdtool",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/tools/buildtools/mdtool",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/tools/buildtools/msbuild",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/tools/buildtools/msbuild",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/tools/buildtools/xbuild",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/tools/buildtools/xbuild",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
