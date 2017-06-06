@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/bitrise-steplib/steps-xamarin-archive",
+	"ImportPath": "github.com/brandonrisell/steps-xamarin-archive",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
 	"Packages": [
