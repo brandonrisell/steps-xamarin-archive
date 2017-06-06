@@ -11,10 +11,10 @@ import (
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-tools/go-steputils/input"
 	steputiltools "github.com/bitrise-tools/go-steputils/tools"
-	"github.com/bitrise-tools/go-xamarin/builder"
-	"github.com/bitrise-tools/go-xamarin/constants"
-	"github.com/bitrise-tools/go-xamarin/tools"
-	"github.com/bitrise-tools/go-xamarin/tools/buildtools"
+	"github.com/brandonrisell/go-xamarin/builder"
+	"github.com/brandonrisell/go-xamarin/constants"
+	"github.com/brandonrisell/go-xamarin/tools"
+	"github.com/brandonrisell/go-xamarin/tools/buildtools"
 	shellquote "github.com/kballard/go-shellquote"
 )
 
