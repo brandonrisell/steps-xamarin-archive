@@ -39,12 +39,12 @@
 			"Rev": "a848c9870ff7d745a8fb2a951e1c81fcb147b4ec"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/analyzers/project",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/analyzers/project",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/analyzers/solution",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/analyzers/solution",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
@@ -84,12 +84,12 @@
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/tools/nunit",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/tools/nunit",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
 		{
-			"ImportPath": "github.com/bitrise-tools/go-xamarin/utility",
+			"ImportPath": "github.com/brandonrisell/go-xamarin/utility",
 			"Comment": "1.2.0-13-g501da8a",
 			"Rev": "501da8a3be23545c276c7d28c355ca74381525cc"
 		},
